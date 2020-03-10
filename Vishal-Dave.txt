@@ -1,4 +1,5 @@
 Part One:
+
   1. What is Semantic HTML? Its a way we use to describe meaning to the browser and developer,
     2. What is HTML used for? To create the main structure or foundation for a web page or application.
     3. What is an attribute and where do we put it? it provides additional info about an element. We can put it by the img src attribute. 
